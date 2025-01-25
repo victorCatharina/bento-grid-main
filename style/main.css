@@ -1,0 +1,82 @@
+body {
+    font-family: "DM Sans", serif;
+    background-color: hsl(0, 0%, 95%);
+}
+
+p {
+    font-size: 18px;
+}
+
+.purple100-div {
+    background-color: hsl(254, 88%, 90%);
+}
+
+.purple500-div {
+    background-color: hsl(256, 67%, 59%);
+}
+
+
+.yellow100-div {
+    background-color: hsl(31, 66%, 93%);
+}
+
+.yellow500-div {
+    background-color: hsl(39, 100%, 71%);
+}
+
+.white-div {
+    background-color: hsl(0, 0%, 100%);
+}
+
+.container {
+    display: flex;
+
+}
+
+.card01 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card02 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card03 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card04 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card05 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card06 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card07 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
+
+.card08 {
+    width: 12%;
+    height: 30lvh;
+    border-radius: 5%;
+}
